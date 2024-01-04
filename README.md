@@ -5,7 +5,7 @@
 - MDN Web Docs Links
 * Information:
 - These links will help you learn through out the learning. Hope they are Helpful, And as always all credits to Codecademy.com 
-
+---------------------------------------------------------------------
 * Update - Unit 1 and 2 Added [1.0]:
 * Things added:
 * Unit 1:
