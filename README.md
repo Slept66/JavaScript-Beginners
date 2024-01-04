@@ -1,0 +1,1 @@
+None of the things writen in the word documents are writen by me besides the codes in the bottom of the word Document, So all credit should go to Codecademy, you can check their website out it is very helpful if you are a new to learning code.
