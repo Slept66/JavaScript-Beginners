@@ -1,7 +1,8 @@
 * None of the things writen in the word documents are writen by me besides the codes in the bottom of the word Document, So all credit should go to Codecademy, you can check their website out it is very helpful if you are a new to learning code. 📃🚫
+-------------------------------------------------------------------------------------------------------
 * Also I am curently working on uploding and creating more word documents so this is underconstrution, check the Updates 🗃 to know when I added new files and units to this. If you find a mistake please let me know I will fix it and thank you for Reading! 🚧🚧
 * MIT License
-
+-------------------------------------------------------------------------------------------------------
 Copyright (c) 2024 SCR.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -21,5 +22,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+-------------------------------------------------------------------------------------------------------
 *LOL INGRONE THAT IT IS NOT THAT SERIOUS JUST DON"T COPY MY WORK LITTERLY 😉
