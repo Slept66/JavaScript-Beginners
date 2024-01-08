@@ -19,7 +19,8 @@ furnished to.
 * Just kidding, it is not that serious, the thing is that just don't copy my work or sell it in any way. that's it thank you!
 -------------------------------------------------------------------------------------------------------
 * Made With JavaScript:
-- ![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/0659bff4-a7fa-42f4-96db-4439d4a6b94a) ![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/d01fafe8-ea27-4b46-b51e-d1ba0b31ef52)
+- ![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/5cb4dcab-3a8d-4079-be0b-b6ae251e5a54)
+ ![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/d01fafe8-ea27-4b46-b51e-d1ba0b31ef52)
 
 
 
