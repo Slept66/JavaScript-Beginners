@@ -1,6 +1,6 @@
 * None of the things writen in the word documents are writen by me besides the codes in the bottom of the word Document, So all credit should go to Codecademy, you can check their website out it is very helpful if you are a new to learning code. 
 -------------------------------------------------------------------------------------------------------
-* Also I am curently working on uploding and creating more word documents so this is underconstrution, check the Updates 🗃 to know when I added new files and units to this. If you find a mistake please let me know I will fix it and thank you for Reading! 
+* Also I am curently working on uploding and creating more word documents so this is underconstrution, check the "Updates 🗃" to know when I added new files and units to this. If you find a mistake please let me know I will fix it and thank you for Reading! 
 -------------------------------------------------------------------------------------------------------
 * How To Use:
 - Simply open the file that sounds more interesting, click the "Raw" button
