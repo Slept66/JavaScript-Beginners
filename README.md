@@ -25,6 +25,7 @@ furnished to.
 ![image](https://github.com/Slept66/JavaScript-Beginners/assets/148169522/f6f4a113-1f39-4b7f-a02b-6c4b313d39da)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
