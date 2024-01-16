@@ -15,7 +15,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the files or document, and to permit persons to whom the respostory is
 furnished to.
 
-
+![image](https://github.com/Slept66/JavaScript-Beginners/assets/148169522/8e31e541-4aef-4657-9eb2-aba3140550fd)
 
 -------------------------------------------------------------------------------------------------------
 * Just kidding, it is not that serious, the thing is that just don't copy my work or sell it in any way. that's it thank you!
