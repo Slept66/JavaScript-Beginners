@@ -1,6 +1,6 @@
-* None of the things writen in the word documents are writen by me besides the codes in the bottom of the word Document, So all credit should go to Codecademy, you can check their website out it is very helpful if you are a new to learning code. 📃🚫
+* None of the things writen in the word documents are writen by me besides the codes in the bottom of the word Document, So all credit should go to Codecademy, you can check their website out it is very helpful if you are a new to learning code. 
 -------------------------------------------------------------------------------------------------------
-* Also I am curently working on uploding and creating more word documents so this is underconstrution, check the Updates 🗃 to know when I added new files and units to this. If you find a mistake please let me know I will fix it and thank you for Reading! 🚧🚧
+* Also I am curently working on uploding and creating more word documents so this is underconstrution, check the Updates 🗃 to know when I added new files and units to this. If you find a mistake please let me know I will fix it and thank you for Reading! 
 -------------------------------------------------------------------------------------------------------
 * How To Use:
 - Simply open the file that sounds more interesting, click the "Raw" button
@@ -15,14 +15,15 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the files or document, and to permit persons to whom the respostory is
 furnished to.
 
-![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/9030e67d-65ce-44ef-8163-2face321f033)
+![image](https://github.com/Slept66/JavaScript-Beginners/assets/148169522/6a05b7b1-0e2c-4157-ab12-f08aba53c171)
 
 -------------------------------------------------------------------------------------------------------
 * Just kidding, it is not that serious, the thing is that just don't copy my work or sell it in any way. that's it thank you!
 -------------------------------------------------------------------------------------------------------
 * Made With JavaScript:
-- ![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/5cb4dcab-3a8d-4079-be0b-b6ae251e5a54)
- ![image](https://github.com/Scriptonotics/Codecademy-JavaScript-Beginners-Level/assets/148169522/d01fafe8-ea27-4b46-b51e-d1ba0b31ef52)
+- ![image](https://github.com/Slept66/JavaScript-Beginners/assets/148169522/999681bf-8f9f-4571-85dd-5ce14bf60ee7)
+![image](https://github.com/Slept66/JavaScript-Beginners/assets/148169522/f6f4a113-1f39-4b7f-a02b-6c4b313d39da)
+
 
 
 
